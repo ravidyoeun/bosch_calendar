@@ -1,0 +1,82 @@
+[
+  {
+    "AvailableDate": "Tue Oct 20 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "TimeSlots": [
+      {
+        "Time": "8:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": false
+      },
+      {
+        "Time": "9:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "10:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      }
+    ]
+  },
+  {
+    "AvailableDate": "Tue Oct 21 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "TimeSlots": [
+      {
+        "Time": "7:35 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "1:00 PM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "3:00 PM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      }
+    ]
+  },
+  {
+    "AvailableDate": "Tue Oct 22 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "TimeSlots": [
+      {
+        "Time": "8:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "9:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": false
+      },
+      {
+        "Time": "11:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      }
+    ]
+  },
+  {
+    "AvailableDate": "Tue Oct 23 2020 00:00:00 GMT-0800 (Pacific Standard Time)",
+    "TimeSlots": [
+      {
+        "Time": "8:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "9:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      },
+      {
+        "Time": "10:00 AM",
+        "BookedCount": 2,
+        "isAvailableTime": true
+      }
+    ]
+  }
+]
